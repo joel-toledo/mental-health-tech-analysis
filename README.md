@@ -57,7 +57,7 @@ showing treatment rates across key variables.
 ---
 
 ## Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here)*
+![Dashboard](dashboard_preview.png)
 
 ---
 
